@@ -1,4 +1,4 @@
 {
-  "payload": "{\"version\":1,\"servers\":[\"http://nvktfrim.enedns.com\",\"http://nvktfrim.talosmrt.com\"],\"app\":null,\"issuedAt\":1791236683}",
-  "signature": "MEQCIEKDHrLFBeqP4WMLOJy5DYz9aEGJ96mqJ1mKFW6TtJ/HAiBw4C50PjUBv0kGwrLmKHWPI6kyz4mb29tajyeZ0zsaBA=="
+  "payload": "{\"version\":2,\"servers\":[\"http://nvktfrim.enedns.com\",\"http://nvktfrim.talosmrt.com\"],\"app\":{\"versionCode\":7,\"versionName\":\"1.0.6\",\"url\":\"https://github.com/francescotep-ai/GENTV/releases/download/v1.0.6/GENTV.apk\",\"sha256\":\"74a74dbc9c32dea4e133c21608b91bad8adffbff68078888e3a3d9cc8e74ca14\"},\"issuedAt\":1791236689}",
+  "signature": "MEUCIQDNlid55LL7gVAnd2qPjgJoWQtgdLDZp5oIFxZkT3NgwgIgCt+WiK1pOqVXDyfWnnpsFjSLaIym9zaUwDqBLc/xUDc="
 }
