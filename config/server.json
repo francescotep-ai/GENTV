@@ -1,0 +1,4 @@
+{
+  "payload": "{\"version\":1,\"servers\":[\"http://nvktfrim.enedns.com\",\"http://nvktfrim.talosmrt.com\"],\"app\":null,\"issuedAt\":1791236683}",
+  "signature": "MEQCIEKDHrLFBeqP4WMLOJy5DYz9aEGJ96mqJ1mKFW6TtJ/HAiBw4C50PjUBv0kGwrLmKHWPI6kyz4mb29tajyeZ0zsaBA=="
+}
