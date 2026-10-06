@@ -1,4 +1,4 @@
 {
-  "payload": "{\"version\":4,\"servers\":[\"http://ivdwhnhu.enedns.com\",\"http://ivdwhnhu.talosmrt.com\"],\"app\":{\"versionCode\":8,\"versionName\":\"1.0.7\",\"url\":\"https://github.com/francescotep-ai/GENTV/releases/download/v1.0.7/GENTV.apk\",\"sha256\":\"5481316831d1a12748fccdbc801e7b0d068b7a16302845bac6d6b8d2cc96a89f\"},\"issuedAt\":1791291379}",
-  "signature": "MEQCIGHVV2KakO23/3Jtutp+obxutaragWrL10lEc79inF3xAiB/J3+fWBhSvxCAEeLf8Y0RtItslmdK7YQZXsZasa92vA=="
+  "payload": "{\"version\":5,\"servers\":[\"http://ivdwhnhu.enedns.com\",\"http://ivdwhnhu.talosmrt.com\"],\"app\":{\"versionCode\":9,\"versionName\":\"1.0.8\",\"url\":\"https://github.com/francescotep-ai/GENTV/releases/download/v1.0.8/GENTV.apk\",\"sha256\":\"f01709cce584f29736ef84d22a733337bdceea744d68d516a1d3a011cd5b58e8\"},\"issuedAt\":1791292311}",
+  "signature": "MEUCIQD1jQAFMKz6WQl5RVxDXV5cZoH0PJbwqgaRKvzuM7kVdAIgFJCQabJTUhz4FnM3DJwpaznyYMJVTDwBoPBU//7v+kQ="
 }
