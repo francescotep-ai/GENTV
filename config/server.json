@@ -1,4 +1,4 @@
 {
-  "payload": "{\"version\":13,\"servers\":[\"http://ysjneqfp.enedns.com\",\"http://ysjneqfp.talosmrt.com\"],\"app\":{\"versionCode\":15,\"versionName\":\"1.0.14\",\"url\":\"https://github.com/francescotep-ai/GENTV/releases/download/v1.0.14/GENTV.apk\",\"sha256\":\"b7b7ab1fe394539dc31e5ec203bb1a3a8321c1ea46b5f64971a94612458aee97\"},\"issuedAt\":1791968581,\"contenuti\":{\"url\":\"https://raw.githubusercontent.com/francescotep-ai/GENTV/main/config/contenuti-395ae1acdbd6b2a5.bin\",\"sha256\":\"395ae1acdbd6b2a54e24d1b110b82e478011e0add8717c33a12be2175afe93b3\"}}",
-  "signature": "MEUCIQCU+V6PZzPAxy+/tN1vZ6G0wPCxFaIUXQnjT4dMKs7eTwIgFnI+ZfEpwIgLrh/Y4WoFePJ8h2AS9jtYb0zvQTb3TGY="
+  "payload": "{\"version\":14,\"servers\":[\"http://ysjneqfp.enedns.com\",\"http://ysjneqfp.talosmrt.com\"],\"app\":{\"versionCode\":16,\"versionName\":\"1.0.15\",\"url\":\"https://github.com/francescotep-ai/GENTV/releases/download/v1.0.15/GENTV.apk\",\"sha256\":\"ba0cbb23cac31805d7ad16a283100a8793d2d4c99146499710e3ac59b18fb216\"},\"issuedAt\":1791969355,\"contenuti\":{\"url\":\"https://raw.githubusercontent.com/francescotep-ai/GENTV/main/config/contenuti-395ae1acdbd6b2a5.bin\",\"sha256\":\"395ae1acdbd6b2a54e24d1b110b82e478011e0add8717c33a12be2175afe93b3\"}}",
+  "signature": "MEUCIC1mPjB4fvf6QfQms+fI9uauiR2Qh49g/SYnfIQtVMP6AiEAxeap7U8SdqKS3ik0nFLM1XI0jghax/Ox8BFmcsbmUSs="
 }
